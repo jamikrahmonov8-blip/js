@@ -89,8 +89,5 @@
 // let a = 55555;
 // let sum = 0;
 
-// for (let i = 0; i < String(a).length; i++) {
-//     sum += Number(String(a)[i]);
-// }
 
 // console.log(sum);
